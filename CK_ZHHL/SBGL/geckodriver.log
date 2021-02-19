@@ -1,0 +1,781 @@
+1601435701697	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\windows\\TEMP\\rust_mozprofile.ROpxLQvDZod1"
+1601435703812	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1601435703973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601435703973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601435703973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601435703974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601435705813	Marionette	INFO	Listening on port 57478
+1601435705832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+1601435719276	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 303: TypeError: this._timeouts.remove is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 303: TypeError: this._timeouts.remove is not a function
+JavaScript error: https://railbeta.starlinkware.com/static/js/app.bc7e5c3f7de11288b948.js, line 1: TypeError: this.socket is undefined
+JavaScript error: https://railbeta.starlinkware.com/static/js/app.bc7e5c3f7de11288b948.js, line 1: TypeError: this.socket is undefined
+JavaScript error: https://railbeta.starlinkware.com/static/js/app.bc7e5c3f7de11288b948.js, line 1: TypeError: this.socket is undefined
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+_create_dc_and_bitmap: 内存资源不足，无法处理此命令。
+out of memory: 0x00000000000001E8 bytes requested
+at: Driver is not hardware-accelerated.
+1601436053620	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 303: TypeError: this._timeouts.remove is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 303: TypeError: this._timeouts.remove is not a function
+JavaScript error: https://railbeta.starlinkware.com/static/js/app.bc7e5c3f7de11288b948.js, line 1: TypeError: this.socket is undefined
+JavaScript error: https://railbeta.starlinkware.com/static/js/app.bc7e5c3f7de11288b948.js, line 1: TypeError: this.socket is undefined
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+_create_dc_and_bitmap: 内存资源不足，无法处理此命令。
+on: resource://pdf.js/
+1601447377930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601447380483	Marionette	INFO	Listening on port 51145
+1601447380874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+1601447395649	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 303: TypeError: this._timeouts.remove is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 303: TypeError: this._timeouts.remove is not a function
+JavaScript error: https://railbeta.starlinkware.com/static/js/app.bc7e5c3f7de11288b948.js, line 1: TypeError: this.socket is undefined
+JavaScript error: https://railbeta.starlinkware.com/static/js/app.bc7e5c3f7de11288b948.js, line 1: TypeError: this.socket is undefined
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+out of memory: 0x00000000000001E8 bytes requested
+Exiting due to channel error.
+ng extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601447549741	Marionette	INFO	Listening on port 51460
+1601447549881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 255: TypeError: a is undefined
+1601447575049	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1601447593820	Marionette	INFO	Stopped listening on port 51460
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601447674015	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STARLI~1\\AppData\\Local\\Temp\\rust_mozprofile.AikSItdNFwEL"
+1601447674935	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1601447675092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601447675093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601447675093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601447675093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601447678210	Marionette	INFO	Listening on port 51624
+1601447678238	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 255: TypeError: a is undefined
+1601447696025	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1601447697821	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1601447715846	Marionette	INFO	Stopped listening on port 51624
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1601447730998	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\windows\\TEMP\\rust_mozprofile.VrvsAmo0bAOC"
+1601447733053	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1601447733249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601447733249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601447733249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601447733249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601447735905	Marionette	INFO	Listening on port 51743
+1601447736219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+1601447749815	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 303: TypeError: this._timeouts.remove is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 303: TypeError: this._timeouts.remove is not a function
+JavaScript error: https://railbeta.starlinkware.com/static/js/app.bc7e5c3f7de11288b948.js, line 1: TypeError: this.socket is undefined
+JavaScript error: https://railbeta.starlinkware.com/static/js/app.bc7e5c3f7de11288b948.js, line 1: TypeError: this.socket is undefined
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+Client
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+_create_dc_and_bitmap: 内存资源不足，无法处理此命令。
+recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 26456, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+JavaScript error: , line 0: Error: uncaught exception: out of memory
+1602317549547	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+makeAddonVisible@XPIDatabase.jsm:2281:10
+addToDatabase@XPIDatabase.jsm:2208:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+1602317549548	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+addToDatabase@XPIDatabase.jsm:2211:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 173: Error: Data is not ready.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602317603637	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STARLI~1\\AppData\\Local\\Temp\\rust_mozprofile.9I23LQsTNMxe"
+1602317605955	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1602317606154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602317606154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602317606154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602317606154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+out of memory: 0x0000000000000018 bytes requestedout of memory: 0x0000000000000018 bytes requested
+out of memory: 0x0000000000000018 bytes requested
+
+out of memory: 0x0000000000000018 bytes requested
+out of memory: 0x0000000000000018 bytes requested
+out of memory: 0x0000000000000018 bytes requested
+out of memory: 0x0000000000000018 bytes requested
+out of memory: 0x0000000000000018 bytes requested
+out of memory: 0x0000000000000018 bytes requested
+out of memory: 0x0000000000000018 bytes requested
+out of memory: 0x0000000000000018 bytes requested
+out of memory: 0x0000000000000018 bytes requested
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+Hit MOZ_CRASH([unhandlable oom] Failed not allocate new chunk during GC) at z:/task_1579288126/build/src/js/src/vm/JSContext.cpp:
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA80001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA80001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1521
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3160, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1602317611091	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+makeAddonVisible@XPIDatabase.jsm:2281:10
+addToDatabase@XPIDatabase.jsm:2208:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+observe@AsyncShutdown.jsm:551:16
+1602317611093	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+addToDatabase@XPIDatabase.jsm:2211:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+observe@AsyncShutdown.jsm:551:16
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[GFX1-]: WMF VPX decoder just crashed; hardware video will be disabled.
+[Parent 3160, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1602317611274	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+makeAddonVisible@XPIDatabase.jsm:2281:10
+addToDatabase@XPIDatabase.jsm:2208:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+observe@AsyncShutdown.jsm:551:16
+1602317611274	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+addToDatabase@XPIDatabase.jsm:2211:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+observe@AsyncShutdown.jsm:551:16
+1602317611346	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+makeAddonVisible@XPIDatabase.jsm:2281:10
+addToDatabase@XPIDatabase.jsm:2208:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+observe@AsyncShutdown.jsm:551:16
+1602317611346	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+addToDatabase@XPIDatabase.jsm:2211:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+observe@AsyncShutdown.jsm:551:16
+1602317611410	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+makeAddonVisible@XPIDatabase.jsm:2281:10
+addToDatabase@XPIDatabase.jsm:2208:12
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+observe@AsyncShutdown.jsm:551:16
+1602317611410	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1478:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1478:17
+addToDatabase@XPIDatabase.jsm:2211:10
+install@XPIInstall.jsm:4343:27
+_activateAddon@XPIInstall.jsm:4370:7
+observe@AsyncShutdown.jsm:551:16
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1845: TypeError: subject.QueryInterface is not a function
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2345 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2345:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+observe@resource://gre/modules/AsyncShutdown.jsm:551:16
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2345 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2345:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+observe@resource://gre/modules/AsyncShutdown.jsm:551:16
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2345 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2345:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+observe@resource://gre/modules/AsyncShutdown.jsm:551:16
+
+Extension error: extension.persistentListeners is undefined resource://gre/modules/ExtensionCommon.jsm:2345 :: clearPrimedListeners@resource://gre/modules/ExtensionCommon.jsm:2345:39
+build@chrome://extensions/content/parent/ext-backgroundPage.js:73:20
+observe@resource://gre/modules/AsyncShutdown.jsm:551:16
+
+1602317611423	addons.xpi	WARN	Exception running bootstrap method startup on doh-rollout@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2345:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2345:39
+build@ext-backgroundPage.js:73:20
+observe@AsyncShutdown.jsm:551:16
+1602317611423	addons.xpi	WARN	Exception running bootstrap method startup on formautofill@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2345:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2345:39
+build@ext-backgroundPage.js:73:20
+observe@AsyncShutdown.jsm:551:16
+1602317611423	addons.xpi	WARN	Exception running bootstrap method startup on webcompat@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2345:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2345:39
+build@ext-backgroundPage.js:73:20
+observe@AsyncShutdown.jsm:551:16
+1602317611424	addons.xpi	WARN	Exception running bootstrap method startup on screenshots@mozilla.org: TypeError: extension.persistentListeners is undefined(resource://gre/modules/ExtensionCommon.jsm:2345:39) JS Stack trace: clearPrimedListeners@ExtensionCommon.jsm:2345:39
+build@ext-backgroundPage.js:73:20
+observe@AsyncShutdown.jsm:551:16
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3160, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+JavaScript error: resource://gre/modules/DeferredTask.jsm, line 215: Error: Unable to arm timer, the object has been finalized.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/SearchService.jsm, line 710: NS_ERROR_FAILURE: SearchService previously failed to initialize
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602317795833	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STARLI~1\\AppData\\Local\\Temp\\rust_mozprofile.31veWkii8VIx"
+1602317797593	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1602317797756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602317797756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602317797756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602317797756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+out of memory: 0x0000000000002000 bytes requested
+out of memory: 0x0000000000001000 bytes requested
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0074,name=PBrowser::Msg_UpdateDimensions) Channel error: cannot send/recv
+
+Extension error: out of memory undefined:undefined :: startup@resource://gre/modules/Extension.jsm:2353:29
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x37001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+1602317801359	addons.xpi	WARN	Exception running bootstrap method startup on screenshots@mozilla.org: out of memory
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0074,name=PBrowser::Msg_UpdateDimensions) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+Extension error: out of memory undefined:undefined :: startup@resource://gre/modules/Extension.jsm:2353:29
+observe@resource://gre/modules/AsyncShutdown.jsm:551:16
+observe@resource:///modules/ContentCrashHandlers.jsm:177:28
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Extension shutdown: google@search.mozilla.org
+          Phase: profile-change-teardown
+          State: {"state":"Startup: Error: out of memory"}
+WARNING: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 551: uncaught exception: out of memory
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  SessionStore: flushing all windows
+          Phase: quit-application-granted
+          State: {"total":1,"current":0}
+WARNING: out of memory
+JavaScript error: resource:///modules/ContentCrashHandlers.jsm, line 177: uncaught exception: out of memory
+JavaScript error: resource:///modules/ContentCrashHandlers.jsm, line 177: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+out of memory: 0x0000000000200000 bytes requested
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[Parent 6848, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/SearchService.jsm, line 710: NS_ERROR_FAILURE: SearchService previously failed to initialize
+JavaScript error: , line 0: uncaught exception: 2147500037
+JavaScript error: resource://gre/modules/SearchService.jsm, line 2304: NS_ERROR_FAILURE: SearchService initialization failed
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/UpdateService.jsm, line 3064: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: 2147500037
+JavaScript error: , line 0: uncaught exception: 2147500037
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602317802406	Marionette	FATAL	Remote protocol server failed to start: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIServerSocket.asyncListen]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: chrome://marionette/content/server.js :: set acceptConnections :: line 99"  data: no] Stack trace: set acceptConnections()@server.js:99
+start()@server.js:124
+init/<()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/marionette.js:498
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Remote Settings profile-before-change","state":"Remaining: 1 callbacks.","filename":"resource://services-settings/RemoteSettingsWorker.jsm","lineNumber":131,"stack":["resource://services-settings/RemoteSettingsWorker.jsm:null:131","resource://services-settings/RemoteSettingsClient.jsm:get:345"]}] Barrier: profile-before-change
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 352: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/ModulesPing.jsm, line 70: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]'[JavaScript Error: "setting getter-only property "gLogEnabled"" {file: "resource://gre/modules/UpdateTimerManager.jsm" line: 352}]' when calling method: [nsIUpdateTimerManager::registerTimer]
+FATAL ERROR: AsyncShutdown timeout in profile-before-change Conditions: [{"name":"Remote Settings profile-before-change","state":"Remaining: 1 callbacks.","filename":"resource://services-settings/RemoteSettingsWorker.jsm","lineNumber":131,"stack":["resource://services-settings/RemoteSettingsWorker.jsm:null:131","resource://services-settings/RemoteSettingsClient.jsm:get:345"]}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 6848, Main Thread] ###!!! ABORT: file resource://services-settings/RemoteSettingsWorker.jsm, line 131
+[Parent 6848, Main Thread] ###!!! ABORT: file resource://services-settings/RemoteSettingsWorker.jsm, line 131
+1602317964804	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STARLI~1\\AppData\\Local\\Temp\\rust_mozprofile.RRsqr934cFCY"
+1602317967143	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1602317967297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602317967297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602317967297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602317967298	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602317971055	Marionette	INFO	Listening on port 50878
+1602317971180	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 255: TypeError: a is undefined
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1840,938)texture11: false Code: 0x8007000e
+[GFX1]: Failed to create Pbuffer surface error: 0x3003 Size : Size(1840,937)
+JavaScript warning: , line 0: Error: WebGL warning: <PresentScreenBuffer>: screen->Resize failed. Losing context.
+WebGL(00000240030DC000)::ForceLoseContext
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1840,938)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 80, 0, 1840, 938
+[GFX1-]: GFX: D3D11 detected a device reset in Present
+[GFX1-]: D3D11 swap chain failed to present: 0x887a0005
+[GFX1-]: Unexpected error: 0x502: GL_INVALID_OPERATION
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor line 124 > eval, line 1: Error: WebGL warning: <SetDimensions>: Backbuffer resize failed. Losing context.
+WebGL(00000240030DC000)::ForceLoseContext
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor line 124 > eval, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: Initializing WebGL backbuffer failed.
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1840,938)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1840,938)texture11: false Code: 0x8007000e
+[GFX1]: Failed to create software bitmap: Size(1840,113) Code: 0x8899000c
+[GFX1]: Failed to create software bitmap: Size(163,36) Code: 0x8899000c
+[GFX1]: Failed to create software bitmap: Size(414,36) Code: 0x8899000c
+[GFX1]: Failed to create software bitmap: Size(196,63) Code: 0x8899000c
+[GFX1]: Failed to create software bitmap: Size(96,50) Code: 0x8899000c
+[GFX1]: Failed to create software bitmap: Size(96,50) Code: 0x8899000c
+[GFX1]: Failed to create software bitmap: Size(140,50) Code: 0x8899000c
+[GFX1]: Failed to create software bitmap: Size(442,857) Code: 0x8899000c
+[GFX1]: Failed to create software bitmap: Size(240,28) Code: 0x8899000c
+[GFX1]: Failed to create software bitmap: Size(17,22) Code: 0x8899000c
+[GFX1]: Failed to create software bitmap: Size(15,22) Code: 0x8899000c
+[GFX1]: Failed to create software bitmap: Size(17,22) Code: 0x8899000c
+[GFX1]: Failed to create software bitmap: Size(17,22) Code: 0x8899000c
+[GFX1]: Failed to create software bitmap: Size(240,28) Code: 0x8899000c
+[GFX1]: Failed to create software bitmap: Size(1840,281) CodeA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 25924, Gecko_IOThread] WARNING: file z:/task_1579288126/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1602317985951	Marionette	INFO	Stopped listening on port 50878
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1602320662126	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\windows\\TEMP\\rust_mozprofile.wW7Rm4Jljz8c"
+1602320664432	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1602320664599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1602320664599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1602320664599	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1602320664600	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1602320666954	Marionette	INFO	Listening on port 53995
+1602320667364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+1602320680169	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 303: TypeError: this._timeouts.remove is not a function
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 303: TypeError: this._timeouts.remove is not a function
+JavaScript error: https://railbeta.starlinkware.com/static/js/app.bc7e5c3f7de11288b948.js, line 1: TypeError: this.socket is undefined

@@ -1,0 +1,165 @@
+1601263116426	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\windows\\TEMP\\rust_mozprofile.VajavEQJKAni"
+1601263117078	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1601263117209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601263117209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601263117209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601263117210	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601263118711	Marionette	INFO	Listening on port 64139
+1601263119053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+1601263133548	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1601263231079	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\windows\\TEMP\\rust_mozprofile.goqkzO7DRk1B"
+1601263231699	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1601263231797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601263231797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601263231798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601263231798	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601263233423	Marionette	INFO	Listening on port 64356
+1601263233692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+1601263245918	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1601263368183	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STARLI~1\\AppData\\Local\\Temp\\rust_mozprofile.YSguXg5sevxw"
+1601263369282	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1601263369377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601263369377	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601263369378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601263369378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601263372777	Marionette	INFO	Listening on port 64618
+1601263372913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 255: TypeError: a is undefined
+1601263386317	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 84: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIInterfaceRequestor.getInterface]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1601263475668	Marionette	INFO	Stopped listening on port 64618
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1601263490618	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\windows\\TEMP\\rust_mozprofile.pMRr3CWEIRJd"
+1601263492524	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1601263492693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601263492694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601263492694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601263492694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601263494793	Marionette	INFO	Listening on port 64846
+1601263494851	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+1601263508653	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1601263509931	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1601263559164	Marionette	INFO	Stopped listening on port 64846
+1601263722626	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\windows\\TEMP\\rust_mozprofile.ijU3MXhjg7nH"
+1601263723260	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1601263723372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601263723372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601263723373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601263723373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601263725328	Marionette	INFO	Listening on port 65203
+1601263725740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+1601263745734	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1601263746990	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1601263796242	Marionette	INFO	Stopped listening on port 65203
+1601363822200	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\windows\\TEMP\\rust_mozprofile.LDndHzDyhTTj"
+1601363824515	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1601363824710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601363824710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601363824710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601363824711	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601363827168	Marionette	INFO	Listening on port 53863
+1601363827514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+1601363842675	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1601363843946	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1601363893272	Marionette	INFO	Stopped listening on port 53863
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1601364157011	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\windows\\TEMP\\rust_mozprofile.EUnzX3Tr62ti"
+1601364157842	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1601364157957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601364157957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601364157957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601364157957	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601364159889	Marionette	INFO	Listening on port 54339
+1601364160129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: getContext: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 12: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: failIfMajorPerformanceCaveat: Driver is not hardware-accelerated.
+1601364172199	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1601364173465	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1601364222825	Marionette	INFO	Stopped listening on port 54339
+1601368811729	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\STARLI~1\\AppData\\Local\\Temp\\rust_mozprofile.ERnYPsFCqvVF"
+1601368812445	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1601368812543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1601368812543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1601368812543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1601368812543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1601368815370	Marionette	INFO	Listening on port 59088
+1601368815855	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://webapi.amap.com/maps?v=1.4.15&key=78e375084211f91e653f9a4f6f107145&plugin=AMap.MarkerClusterer,AMap.Geocoder,AMap.DistrictSearch,AMap.Driving,AMap.PolyEditor, line 255: TypeError: a is undefined
+1601368828148	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1601368829086	Marionette	INFO	Stopped listening on port 59088
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
